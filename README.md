@@ -1,1 +1,1 @@
-# coursera
+# Playground for coursera AI courses
